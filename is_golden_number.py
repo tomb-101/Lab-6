@@ -9,4 +9,4 @@ def is_golden_number(n):
         break
     return boolean
 
-print(is_golden_number(65))
+# print(is_golden_number(65))
